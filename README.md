@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-![Banner](https://github.com/emilyoribe-dot/emilyoribe-dot/blob/main/assets/banner.png)
+![Banner](https://github.com/emilyoribe-dot/emilyoribe-dot/blob/main/assets/banner.jpg)
 
 
 <!--
