@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-![Banner]([https://github.com/TU_USUARIO/TU_USUARIO/blob/main/assets/banner.png](https://imgsearch.com/image/playing-card-inspired-glassware-set-4836106))
+![Banner](https://imgsearch.com/image/playing-card-inspired-glassware-set-4836106)
 
 
 <!--
