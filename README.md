@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-![Banner](https://imgsearch.com/image/playing-card-inspired-glassware-set-4836106)
+![Banner](https://github.com/emilyoribe-dot/emilyoribe-dot/blob/main/assets/banner.png)
 
 
 <!--
