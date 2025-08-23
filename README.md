@@ -1,0 +1,14 @@
+<img width="1584" height="396" alt="Diseño sin título" src="https://github.com/user-attachments/assets/d7e9dcd0-2c55-4ae4-9d38-a812a8a1bfc2" />
+# HOla, soy Emily 👋
+
+<!--
+**emilyoribe-dot/emilyoribe-dot** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+Here are some ideas to get you started:
+
+- 🔭 Actualmente estoy trabajando como admisnistrativa
+- 🌱 Me encuentro formándome en QA Engineer
+- 😄 Estoy lista para dar un giro e ir por nuevos desafíos
+- 📫 Contactame: emilyjoanoribe@gmail.com
+- ✨ Mi sueño: viajar por el mundo mientras trabajo
+-->
