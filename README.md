@@ -1,6 +1,5 @@
 # Hola, soy Emily Joan Oribe 👋  
 
-💼 QA Tester en formación | 📊 Aprendiendo SQL | 🧪 Pruebas manuales y automatizadas 
 
 ![Banner](https://github.com/emilyoribe-dot/emilyoribe-dot/blob/main/assets/banner.png)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Perfil-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/emily-oribe)
