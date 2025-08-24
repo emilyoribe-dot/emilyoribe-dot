@@ -8,12 +8,12 @@
 - 👯 Me encuentro realizando un voluntariado en un proyecto de desarrollo de aplicaciones
 - ✨ Sueño con tener un trabajo remoto y trabajar por el mundo
 - 📫 Puedes contactarme: emilyjoanoribe@gmail.com
-<!--
+
 
 **Herramientas:**
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
 **emilyoribe-dot/emilyoribe-dot** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
+<!--
 **Sobre mi:**
 
 - 🔭 Actualmente estoy trabajando como administradora
