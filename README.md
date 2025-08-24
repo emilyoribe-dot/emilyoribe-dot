@@ -1,4 +1,4 @@
-# Hola, soy Emily Joan Oribe 👋  
+# Hola, soy Emily Oribe 👋  
 
 
 ![Banner](https://github.com/emilyoribe-dot/emilyoribe-dot/blob/main/assets/banner.png)
@@ -6,8 +6,7 @@
 
 **Sobre mi:**
 - 🔭 Actualmente estoy trabajando como administradora
-- 🌱 Estoy capacitándome en QA Engineer
-- 👯 Me encuentro realizando un voluntariado en un proyecto de desarrollo de aplicaciones
+- 🌱 Estoy capacitándome en QA Engineer en el bootcamp TripleTen [![LinkedIn](https://tripleten.com/)
 - ✨ Sueño con tener un trabajo remoto y trabajar por el mundo
 - 📫 Puedes contactarme: emilyjoanoribe@gmail.com
 
