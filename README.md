@@ -4,7 +4,7 @@
 ![Banner](https://github.com/emilyoribe-dot/emilyoribe-dot/blob/main/assets/banner.png)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Perfil-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/emily-oribe)
 
-**[EMOJICODE:MUJER LEVANTANDO LA MANO] Sobre mi:**
+**[EMOJICODE🙋‍♀️] Sobre mi:**
 - 🔭 Actualmente estoy trabajando como administradora
 - 🌱 Estoy capacitándome en QA Engineer en el bootcamp TripleTen (https://tripleten.com/)
 - ✨ Sueño con tener un trabajo remoto y trabajar por el mundo
