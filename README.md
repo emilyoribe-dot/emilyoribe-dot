@@ -1,4 +1,6 @@
-## Hola! Mucho gusto 👋
+# Hola, soy Emily Joan Oribe 👋  
+
+💼 QA Tester | 📊 Aprendiendo SQL | 🧪 Pruebas manuales y automatizadas 
 
 ![Banner](https://github.com/emilyoribe-dot/emilyoribe-dot/blob/main/assets/banner.png)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Perfil-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/emily-oribe)
@@ -14,14 +16,12 @@
 **Herramientas:**
 
 [![My Skills](https://skillicons.dev/icons?i=androidstudio,bash,discord,figma,instagram,linkedin,postman,twitter,windows)](https://skillicons.dev)
-# Hola, soy Emily Joan Oribe 👋  
-
-💼 QA Tester | 📊 Aprendiendo SQL | 🧪 Pruebas manuales y automatizadas  
+ 
 
 ---
 
 ### 📈 Estadísticas de GitHub
-![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=TU_USUARIO&show_icons=true&theme=default&hide_title=true&hide_border=true)
+![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=emilyoribe-dot&show_icons=true&theme=default&hide_title=true&hide_border=true)
 
 ---
 
@@ -31,7 +31,7 @@
 ---
 
 ### 🛠️ Lenguajes más usados
-![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO&layout=compact&theme=default&hide_border=true)
+![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=emilyoribe-dot&layout=compact&theme=default&hide_border=true)
 
 ---
 
