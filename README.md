@@ -1,6 +1,6 @@
 # Hola, soy Emily Joan Oribe 👋  
 
-💼 QA Tester | 📊 Aprendiendo SQL | 🧪 Pruebas manuales y automatizadas 
+💼 QA Tester en formación | 📊 Aprendiendo SQL | 🧪 Pruebas manuales y automatizadas 
 
 ![Banner](https://github.com/emilyoribe-dot/emilyoribe-dot/blob/main/assets/banner.png)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Perfil-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/emily-oribe)
@@ -29,9 +29,6 @@
 ![GitHub Streak](https://streak-stats.demolab.com?user=TU_USUARIO&theme=default&hide_border=true)
 
 ---
-
-### 🛠️ Lenguajes más usados
-![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=emilyoribe-dot&layout=compact&theme=default&hide_border=true)
 
 ---
 
