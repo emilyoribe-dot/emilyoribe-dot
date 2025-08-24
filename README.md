@@ -1,7 +1,7 @@
 ## Hola! Mucho gusto 👋
 
 ![Banner](https://github.com/emilyoribe-dot/emilyoribe-dot/blob/main/assets/banner.png)
-
+**Sobre mi:**
 
 <!--
 **emilyoribe-dot/emilyoribe-dot** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
