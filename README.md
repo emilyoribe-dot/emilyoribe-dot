@@ -8,9 +8,7 @@
 - 🔭 Actualmente estoy trabajando como administradora
 - 🌱 Estoy capacitándome en QA Engineer en el bootcamp TripleTen (https://tripleten.com/)
 - ✨ Sueño con tener un trabajo remoto y trabajar por el mundo
-- 📫 Puedes contactarme: emilyjoanoribe@gmail.com / [![LinkedIn](https://img.shields.io/badge/LinkedIn-Perfil-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/emily-oribe)
-
-
+- 📫 Puedes contactarme: emilyjoanoribe@gmail.com 
 
 **Herramientas:**
 
