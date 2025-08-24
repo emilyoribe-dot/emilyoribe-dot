@@ -4,13 +4,13 @@
 ![Banner](https://github.com/emilyoribe-dot/emilyoribe-dot/blob/main/assets/banner.png)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Perfil-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/emily-oribe)
 
-**Sobre mi:**
+**EMOJICODE:MUJER LEVANTANDO LA MANO Sobre mi:**
 - 🔭 Actualmente estoy trabajando como administradora
 - 🌱 Estoy capacitándome en QA Engineer en el bootcamp TripleTen (https://tripleten.com/)
 - ✨ Sueño con tener un trabajo remoto y trabajar por el mundo
 - 📫 Puedes contactarme: emilyjoanoribe@gmail.com 
 
-**Herramientas:**
+**💻 Tecnologías**
 
 [![My Skills](https://skillicons.dev/icons?i=androidstudio,bash,discord,figma,instagram,linkedin,postman,twitter,windows)](https://skillicons.dev)
  
