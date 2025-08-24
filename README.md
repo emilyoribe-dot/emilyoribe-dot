@@ -14,6 +14,29 @@
 **Herramientas:**
 
 [![My Skills](https://skillicons.dev/icons?i=androidstudio,bash,discord,figma,instagram,linkedin,postman,twitter,windows)](https://skillicons.dev)
+# Hola, soy Emily Joan Oribe 👋  
+
+💼 QA Tester | 📊 Aprendiendo SQL | 🧪 Pruebas manuales y automatizadas  
+
+---
+
+### 📈 Estadísticas de GitHub
+![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=TU_USUARIO&show_icons=true&theme=default&hide_title=true&hide_border=true)
+
+---
+
+### 🔥 Racha de contribuciones
+![GitHub Streak](https://streak-stats.demolab.com?user=TU_USUARIO&theme=default&hide_border=true)
+
+---
+
+### 🛠️ Lenguajes más usados
+![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO&layout=compact&theme=default&hide_border=true)
+
+---
+
+✨ Gracias por visitar mi perfil
+
 
 <!--
 **emilyoribe-dot/emilyoribe-dot** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
