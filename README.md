@@ -1,7 +1,8 @@
 ## Hola! Mucho gusto 👋
 
 ![Banner](https://github.com/emilyoribe-dot/emilyoribe-dot/blob/main/assets/banner.png)
-https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Perfil-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/emily-oribe)
+
 **Sobre mi:**
 - 🔭 Actualmente estoy trabajando como administradora
 - 🌱 Estoy capacitándome en QA Engineer
